@@ -14,7 +14,7 @@ HTML5
 CSS
 
 Contact
-Your Name - Prachi Choudhary
+ Prachi Choudhary
 GitHub - prachichoudhary2004
 
 
