@@ -1,4 +1,6 @@
 SPOTIFY CLONE
+
+
 file:///C:/Users/Prachi/Desktop/PROJECTS/SPOTIFY%20CLONE/index.html
 
 
